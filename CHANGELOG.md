@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0.2.3
 -----
 - 支持```[General]skip-Proxy```

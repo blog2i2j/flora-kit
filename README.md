@@ -44,7 +44,7 @@ $ ./flora
 
 #### Windows
 ```
-flora.bat
+flora.exe
 ```
 
 ## License
